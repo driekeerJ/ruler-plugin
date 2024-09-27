@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "ruler-plugin",
+	"name": "Ruler Plugin",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "Make the pointed text pop out. Kind of a dyslexics ruler",
+	"author": "WallWay",
+	"authorUrl": "https://github.com/driekeerJ/ruler-plugin",
+	"isDesktopOnly": true
 }
